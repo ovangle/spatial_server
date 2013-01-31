@@ -1,0 +1,9 @@
+name: spatial_server
+version: 0.0.1
+author: Thomas Stephenson <ovangle@gmail.com>
+description: client side interface for spatialSERVER application
+homepage: https://www.spatialinfo.com
+
+#dependencies:
+#  js: any
+#  unittest: any
